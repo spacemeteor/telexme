@@ -1,4 +1,4 @@
 telexme
 =======
 
-Telex client on Java ME
+Doesn't work yet. You have been warned.
