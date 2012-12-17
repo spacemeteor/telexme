@@ -4,3 +4,14 @@
 *.jar
 *.war
 *.ear
+*.jad
+
+# Eclipse Files #
+.settings
+.classpath
+.project
+build.properties
+
+# MTJ #
+.mtj.tmp
+.mtj

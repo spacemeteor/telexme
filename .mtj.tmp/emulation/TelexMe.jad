@@ -1,8 +1,0 @@
-MIDlet-1: TelexMeMIDlet,,telexme.TelexMeMIDlet
-MIDlet-Jar-Size: 2741911
-MIDlet-Jar-URL: TelexMe.jar
-MIDlet-Name: TelexMe
-MIDlet-Vendor: Lumpy
-MIDlet-Version: 1.0.0
-MicroEdition-Configuration: CLDC-1.0
-MicroEdition-Profile: MIDP-2.1
